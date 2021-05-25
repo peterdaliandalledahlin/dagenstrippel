@@ -1,7 +1,7 @@
 {
-  "name": "vanilla-parcel-boilerplate",
+  "name": "dagens-trippel",
   "version": "1.0.0",
-  "description": "Simple workflow starter for building vanilla JS apps",
+  "description": "Två gitarrer och sång därtill.",
   "main": "index.js",
   "scripts": {
     "dev": "npm run clean && parcel public/index.html --out-dir development -p 3000",
@@ -15,7 +15,7 @@
   "keywords": [
     "parcel"
   ],
-  "author": "Brad Traversy",
+  "author": "Peter Dahlin",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/bradtraversy/vanilla-parcel-boilerplate/issues"
