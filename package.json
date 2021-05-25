@@ -18,9 +18,9 @@
   "author": "Peter Dahlin",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bradtraversy/vanilla-parcel-boilerplate/issues"
+    "url": "https://github.com/peterdaliandalledahlin/dagenstrippel.git/issues"
   },
-  "homepage": "https://github.com/bradtraversy/vanilla-parcel-boilerplate#readme",
+  "homepage": "https://github.com/peterdaliandalledahlin/dagenstrippel#readme",
   "devDependencies": {
     "@babel/core": "^7.9.0",
     "@babel/plugin-transform-runtime": "^7.9.0",
